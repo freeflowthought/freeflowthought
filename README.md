@@ -1,99 +1,106 @@
-<p align="center">
-  <img src="./assets/wilson-header.svg" width="100%" alt="Wilson Wu. Founder, engineer and investor. Building the human-agent company through Florus AI." />
+<img src="./assets/wilson-header.svg" width="100%" alt="Wilson Wu. Independent thinking. Hands-on building. Founder, builder and investor. Currently building Florus AI." />
+
+<p>
+<a href="https://www.linkedin.com/in/wilson-wu-6a08893ba/"><strong>LINKEDIN ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://www.florus.ai/"><strong>FLORUS AI ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="#selected-work">SELECTED WORK ↓</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wilson-wu-6a08893ba/"><strong>Connect on LinkedIn ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://www.florus.ai/"><strong>Florus AI ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://www.geocompanion.ai/">GEOCompanion</a> &nbsp; · &nbsp;
-  <a href="https://www.launchvibes.tech/">LaunchVibes</a>
-</p>
+### I build the product. And the business around it.
 
-# Hi, I'm Wilson.
+I'm **Wilson Wu**, founder of **Florus AI**, self-taught developer, angel investor and consultant. My path runs through launchpads, liquidity infrastructure and AI products. The thread connecting them: turning an original idea into something people can use.
 
-**A founder who builds, an engineer who thinks about the business, and an investor who backs people with original ideas.**
-
-I'm the founder of **Florus AI**. My work has taken me from blockchain infrastructure, launchpads and liquidity systems to AI products that help businesses reach customers and learn from the work they do.
-
-I'm a self-taught developer with a master's degree in **Logistics and Supply Chain Management**. Across 11 years of full-time work, including five years of full-time entrepreneurship, I've worked on the product, engineering and operating sides of building companies. I like the point where an ambitious idea becomes a system that someone can actually use.
-
-## 01 / What I'm building now
-
-### Florus AI · A self-improving AI front office
-
-The next stage of Florus connects **marketing, sales and customer service**. A question from a customer should improve the next campaign. What sales learns should carry into service. The business should retain those lessons rather than start over in every tool.
-
-**Our RSI agent workflow** is designed around a practical cycle:
-
-```text
-Execute work → Measure results → Review evidence → Keep approved lessons
-      ↑                                                    │
-      └──────────────── Improve the next round ─────────────┘
-```
-
-Shared memory is the connective layer. People remain accountable for brand, claims, pricing and spend. This is our workflow and product direction, not a claim of frontier-model recursive self-improvement or achieved superintelligence.
-
-| Product | Role in the ecosystem |
-| :--- | :--- |
-| **[Florus AI](https://www.florus.ai/)** | The AI front-office ecosystem, bringing execution, context and learning together. |
-| **[GEOCompanion](https://www.geocompanion.ai/)** | AI search visibility and the work of helping businesses understand how they are discovered. |
-| **[LaunchVibes](https://www.launchvibes.tech/)** | Content and distribution within our go-to-market loop. |
-
-Our GTM loop is live through GEOCompanion and LaunchVibes. Sales and customer-service loops are in early access as we develop the connections between them. The longer-term ambition is a **human-agent company**: a small team with the operating capability to build something much larger than its headcount suggests.
-
-**Program journey:** NVIDIA Inception · Startup Foundry · LvlUp Startup Excellence Tracks · AltaLab Online Sprint (completed). Participation is distinct from investment or endorsement.
-
-## 02 / The builder's path
-
-My background is in building both the software and the mechanisms around it: how products launch, how liquidity moves, how incentives work and how teams turn technical work into a business.
-
-| Venture / role | Work |
-| :--- | :--- |
-| **Honeypot Finance · Founder** | Launchpad and liquidity infrastructure in the Berachain ecosystem, including work around token launches and vaults. |
-| **CosmoStarter · Co-founder & CTO** | Technical co-founding and product building. |
-| **Antslabor · Co-founder & CTO** | Technical co-founding and engineering leadership. |
-| **Splatter Protocol** | DeFi product development on Scroll. |
-| **Toro DEX** | Trading infrastructure work in the Sei ecosystem. |
-
-That experience shapes how I approach AI: the model is one part of the product. The surrounding system, incentives, handoffs and feedback determine whether it becomes useful.
-
-## 03 / Angel investing · 2024–present
-
-I back founders with innovative ideas and the drive to build them.
-
-- **RootsFi**, later **Pons**
-- **IVX**, later **Starcap**
-
-My investing background began with Web3 founders. I'm also looking at AI projects with strong fundamentals, thoughtful technical choices and a clear reason to exist.
-
-## 04 / Consulting · Selected work
-
-I help founders connect **product design, technical execution, launch strategy and operations**. The work is hands-on: deciding what to build, helping make it work and finding a viable way to bring it to market.
-
-### DODO Exchange
-Helped bring in approximately **1M in TVL** through my network. Also supported **vault setup and multiple technical integrations on Berachain**.
-
-### Narra Layer → Supernet AI
-Designed and helped build a **specialized vault** that generated almost all of the team's cash flow in 2025, helping the team continue operating through a difficult market.
-
-### SukukFi
-Advised on **launch and operating strategy**, connecting product decisions with practical execution.
-
-I've also supported other early-stage teams. The common thread is helping founders turn technical possibilities into a product and operating plan they can act on.
-
-## 05 / What you'll find here
-
-A record of building across **AI applications, DeFi, smart contracts, web products and data tools**.
-
-Selected public work:
-- **[Initial liquidity offering model](https://github.com/freeflowthought/ILO_backend)** · Solidity
-- **[Splatter frontend](https://github.com/freeflowthought/splatter_front)** · Vue
-- **[Refidea](https://github.com/freeflowthought/refidea)** · TypeScript
-- **[Scrape and compare](https://github.com/freeflowthought/scrapeandcompare)** · Python
-
-I care about fast iteration, useful feedback and software that survives contact with real users. I want more founders to be able to build serious companies without needing a large organization first.
+**11 years working. 5 years building companies full-time.** A master's in Logistics and Supply Chain Management taught me to think in systems. Teaching myself to code gave me a way to build them.
 
 ---
 
-**Building an AI product, working through a launch, or thinking about human-agent teams?**  
-[Find me on LinkedIn](https://www.linkedin.com/in/wilson-wu-6a08893ba/) · [Explore Florus AI](https://www.florus.ai/)
+## Now / Florus AI
+### Building the human-agent company, starting at the front office.
+
+A customer asks a question. Sales learns something. Marketing should not have to discover it again.
+
+That is the direction of **Florus AI**: a self-improving AI front office connecting marketing, sales and customer service. **Our RSI agent workflow** is designed to execute work, measure results, review evidence and carry approved lessons into the next round.
+
+<img src="./assets/florus-direction.svg" width="100%" alt="Florus design direction: marketing, sales and customer service connected through shared memory, evidence and human review." />
+
+**[GEOCompanion ↗](https://www.geocompanion.ai/)**  
+AI search visibility. Helping businesses understand how they are discovered.
+
+**[LaunchVibes ↗](https://www.launchvibes.tech/)**  
+Content and distribution. Turning ideas into go-to-market work.
+
+The GTM loop is live through these products. Sales and customer-service loops are in early access; we are developing the connections between them. The ambition is a small human-agent team with the capability to build and run a much larger business.
+
+<details>
+<summary><strong>Program journey & how I think about self-improvement</strong></summary>
+
+<br />
+
+NVIDIA Inception · Startup Foundry · LvlUp Startup Excellence Tracks · AltaLab Online Sprint (completed).
+
+Our approach to self-improvement is practical: retain useful evidence, review what worked, and make the next round better. People stay accountable for brand, claims, pricing and spend. This describes our agent workflow and product direction, not frontier-model RSI or achieved superintelligence. Program participation is not investment or endorsement.
+
+</details>
+
+---
+
+<a id="selected-work"></a>
+
+## Before / Systems, products, ventures
+
+**Honeypot Finance · Founder**  
+Launchpad and liquidity infrastructure in the Berachain ecosystem. Work spanning token launches, vaults and the mechanisms that connect projects with liquidity.
+
+**CosmoStarter · Co-founder & CTO**  
+Technical co-founding and product building.
+
+**Antslabor · Co-founder & CTO**  
+Technical co-founding and engineering leadership.
+
+**Splatter Protocol / Toro DEX**  
+DeFi product development on Scroll; trading infrastructure in the Sei ecosystem.
+
+Building in crypto sharpened my interest in the parts outside the interface: incentives, risk, coordination and what happens when real people use a system.
+
+---
+
+## Backing / Founders with original ideas
+**Angel investor · 2024–present**
+
+**RootsFi → Pons** &nbsp; / &nbsp; **IVX → Starcap**
+
+I began backing Web3 founders. I'm also looking at AI projects with strong fundamentals, thoughtful technical choices and a clear reason to exist.
+
+---
+
+## Alongside / Helping other founders build
+
+I work across product design, technical execution, launch strategy and operations. Sometimes that means designing the mechanism. Sometimes it means helping a team get it into the world.
+
+### DODO Exchange
+**≈1M TVL through my network.** Helped with vault setup and multiple technical integrations on Berachain.
+
+### Narra Layer → Supernet AI
+**A vault that helped keep the team operating.** Designed and helped build a specialized vault that generated almost all of the team's cash flow in 2025, supporting them through a difficult market.
+
+### SukukFi
+**From launch to operations.** Advised on launch and operating strategy, connecting product decisions with practical execution.
+
+---
+
+## On GitHub / A few things I've built
+
+| Public work | Focus |
+| :--- | :--- |
+| [**ILO backend ↗**](https://github.com/freeflowthought/ILO_backend) | Initial liquidity offering model · Solidity |
+| [**Splatter frontend ↗**](https://github.com/freeflowthought/splatter_front) | DeFi interface · Vue |
+| [**Refidea ↗**](https://github.com/freeflowthought/refidea) | TypeScript |
+| [**Scrape and compare ↗**](https://github.com/freeflowthought/scrapeandcompare) | Python |
+
+<br />
+
+> **More people with strong ideas should be able to build serious companies.**  
+> That is the future I'm working toward with Florus.
+
+**[Let's compare notes on LinkedIn ↗](https://www.linkedin.com/in/wilson-wu-6a08893ba/)**  
+AI products · founder systems · technical execution · early-stage ideas
