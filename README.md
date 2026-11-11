@@ -1,4 +1,4 @@
-<img src="./assets/wilson-header.svg" width="100%" alt="Wilson Wu. Independent thinking. Hands-on building. Founder, builder and investor. Currently building Florus AI." />
+<img src="./assets/wilson-editorial.svg" width="100%" alt="Wilson Wu. Independent thinking. Hands-on building. Founder, builder and investor. Currently building Florus AI." />
 
 <p>
 <a href="https://www.linkedin.com/in/wilson-wu-6a08893ba/"><strong>LINKEDIN ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
