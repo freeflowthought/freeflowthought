@@ -62,25 +62,60 @@ Our approach is practical: retain useful evidence, review what worked and improv
 
 ## The builder's path
 
-<img src="./assets/venture-path.svg" width="100%" alt="Selected ventures: CosmoStarter and Antslabor, co-founder and CTO; Honeypot Finance, launchpads and liquidity; Splatter and Toro, DeFi and trading; now Florus AI." />
+<img src="./assets/venture-path.svg?v=2" width="100%" alt="Career: Mastodon senior software architect, 2019–2020; AntsLabor CTO and co-founder, 2020–2021; CosmoStarter CTO and co-founder, 2021–2022; Honeypot Finance founder from 2022; independent investor and consultant from 2024; Florus AI founder from 2025. Roles overlap." />
+
+**Architecture → technical co-founding → venture building → investing.** These are overlapping roles, not a series of handoffs. Each has shaped how I build today.
+
+### Florus AI · Founder
+**November 2025–Present**
+
+Building a human-agent company, starting with a self-improving AI front office. Launched **GEOCompanion** and **LaunchVibes** as our live GTM loop, connecting diagnosis, editable content and native social publishing. Sales and customer-service loops are in early access; the connections across all three are still being developed.
+
+### Independent · Angel Investor & Consultant
+**Angel investing: 2024–Present · Consulting: November 2024–Present**
+
+Backing founders in **RootsFi → Pons** and **IVX → Starcap**, alongside hands-on consulting in product design, technical implementation and launch strategy. My investing now also explores AI projects with strong fundamentals. [Investment story ↓](#backing-the-founder-before-the-breakthrough) · [Selected client work ↓](#working-alongside-founders)
 
 <details open>
-<summary><strong>＋ What I worked on</strong></summary>
+<summary><strong>Honeypot Finance · Founder · August 2022–Present</strong></summary>
 
 <br />
 
-**Honeypot Finance · Founder**  
-Launchpad and liquidity infrastructure in the Berachain ecosystem. Work spanning token launches, vaults and the mechanisms that connect projects with liquidity.
+Built launchpad and liquidity infrastructure from concept and whitepaper through deployment. Designed the **Fair Token Offering (FTO)** model, connecting token launches, AMM liquidity pools and shared LP ownership, alongside vault and token-entitlement mechanisms.
 
-**CosmoStarter · Co-founder & CTO** / **Antslabor · Co-founder & CTO**  
-Technical co-founding, product building and engineering leadership.
-
-**Splatter Protocol / Toro DEX**  
-DeFi product development on Scroll; trading infrastructure in the Sei ecosystem.
-
-Building in crypto sharpened my interest in the parts outside the interface: incentives, risk, coordination and what happens when real people use a system.
+Led engineering, product direction, fundraising, partnerships and go-to-market execution. Honeypot raised **$1.6M** in seed and ecosystem funding, drove approximately **$2M in primary and secondary NFT sales**, and helped projects raise **$3M+ through token launches**. These are distinct measures, not company revenue.
 
 </details>
+
+<details open>
+<summary><strong>CosmoStarter · CTO & Co-founder · December 2021–June 2022</strong></summary>
+
+<br />
+
+Led technical development and smart-contract implementation for a decentralized launchpad in the **Cosmos ecosystem**. Worked on transaction scheduling and gas efficiency, and integrated **Keplr and MetaMask** wallet compatibility.
+
+</details>
+
+<details open>
+<summary><strong>AntsLabor · CTO & Co-founder · September 2020–August 2021</strong></summary>
+
+<br />
+
+Led the technology strategy and full-stack development of a **rental and property-management SaaS platform**, using Node.js and Vue.js. Built ML-based property rating and valuation, improved cloud architecture and engineering processes, and worked on digital contracts and landlord–tenant workflows across provinces.
+
+</details>
+
+<details open>
+<summary><strong>Mastodon · Senior Software Architect · March 2019–May 2020</strong></summary>
+
+<br />
+
+Worked on backend infrastructure, database migration and scalability for the decentralized social platform. Focused on high-availability deployment, reliability and backend performance using **PostgreSQL and Ruby on Rails**.
+
+</details>
+
+**Other product work:** Splatter Protocol on Scroll and Toro DEX in the Sei ecosystem. These are projects, not additional dated employment entries.
+
 
 <img src="./assets/chapter-divider.svg" width="100%" alt="" />
 
@@ -88,7 +123,11 @@ Building in crypto sharpened my interest in the parts outside the interface: inc
 
 <img src="./assets/investments.svg" width="100%" alt="Angel investing, 2024 to present. RootsFi later Pons. IVX later Starcap." />
 
-I began backing Web3 founders. I'm also looking at AI projects with strong fundamentals, thoughtful technical choices and a clear reason to exist.
+**Angel Investor · Independent · 2024–Present**
+
+I back founders with original ideas and the technical ability and persistence to make them useful. My angel investing began in Web3 with **RootsFi (later Pons)** and **IVX (later Starcap)**.
+
+Being a technical founder shapes what I look for: the team, the product, the problem and the ability to execute as the market changes. I am also exploring **AI projects with strong fundamentals**, a clear use case and a credible path to a durable business.
 
 ### Field note / Why I backed Ozzy
 
@@ -101,6 +140,8 @@ I invested in **RootsFi** before knowing where Ozzy's breakthrough would happen.
 <img src="./assets/chapter-divider.svg" width="100%" alt="" />
 
 ## Working alongside founders
+
+**Independent Consultant · November 2024–Present**
 
 <img src="./assets/consulting-cases.svg" width="100%" alt="Consulting: DODO Exchange, approximately 1M TVL through my network, vaults and integrations. Narra Layer, specialized vault design. SukukFi, launch and operating strategy." />
 
