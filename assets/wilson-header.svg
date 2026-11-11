@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">Wilson Wu: founder, engineer, investor</title><desc id="desc">Building the human-agent company. Florus AI. From decentralized systems to an AI front office.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070c18"/><stop offset="1" stop-color="#182c38"/></linearGradient><linearGradient id="line"><stop stop-color="#6af0cb"/><stop offset="1" stop-color="#818cf8"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern></defs>
-<rect width="1280" height="420" rx="24" fill="url(#bg)"/><rect width="1280" height="420" rx="24" fill="url(#grid)"/>
-<circle cx="1120" cy="210" r="160" fill="none" stroke="#6af0cb" stroke-opacity=".12"/><circle cx="1120" cy="210" r="115" fill="none" stroke="#6af0cb" stroke-opacity=".25"/><circle cx="1120" cy="210" r="70" fill="none" stroke="#818cf8" stroke-opacity=".5"/><path d="M940 210h290M1120 30v360" stroke="#6af0cb" stroke-opacity=".15"/><circle cx="1120" cy="140" r="7" fill="#6af0cb"/><circle cx="1005" cy="210" r="5" fill="#818cf8"/><circle cx="1120" cy="370" r="5" fill="#6af0cb"/>
-<rect x="58" y="58" width="6" height="22" rx="3" fill="#6af0cb"/><text x="80" y="76" font-family="Arial,sans-serif" font-size="17" letter-spacing="4" fill="#6af0cb">FOUNDER / ENGINEER / INVESTOR</text>
-<text x="58" y="169" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#f4f7fb">Wilson Wu</text>
-<text x="60" y="230" font-family="Arial,sans-serif" font-size="33" fill="#dce7f1">Building the human-agent company.</text>
-<text x="60" y="278" font-family="Arial,sans-serif" font-size="20" fill="#9fb3c6">From decentralized systems to a self-improving AI front office.</text>
-<path d="M60 323h760" stroke="url(#line)" stroke-width="2"/>
-<text x="60" y="369" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3" fill="#f4f7fb">FLORUS AI</text><text x="250" y="369" font-family="Arial,sans-serif" font-size="16" fill="#9fb3c6">BUILD SYSTEMS. SHIP PRODUCTS. LEARN FROM REAL WORK.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Wilson Wu — Founder and builder</title><desc id="desc">Independent thinking. Hands-on building. Founder of Florus AI, engineer, angel investor and consultant.</desc>
+<rect width="1200" height="520" fill="#f3f0e7"/>
+<path d="M40 64H1160M40 460H1160" stroke="#1c2523" stroke-width="1"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#1c2523">
+<text x="40" y="43" font-size="15" font-weight="700" letter-spacing="3">WILSON WU / SELECTED WORK</text>
+<text x="1160" y="43" text-anchor="end" font-size="15" letter-spacing="2">FOUNDER · BUILDER · INVESTOR</text>
+<text x="32" y="217" font-size="162" font-weight="900" letter-spacing="-12">WILSON</text>
+<text x="32" y="365" font-size="162" font-weight="900" letter-spacing="-12">WU<tspan fill="#ee542d">.</tspan></text>
+<text x="43" y="415" font-size="24" letter-spacing="-.5">Independent thinking. Hands-on building.</text>
+<text x="40" y="493" font-size="18" font-weight="700">CURRENTLY BUILDING → FLORUS AI</text>
+<text x="1160" y="493" text-anchor="end" font-size="18">From Web3 systems to human-agent companies.</text>
+</g>
+<rect x="820" y="95" width="340" height="340" fill="#ee542d"/>
+<g transform="translate(990 265)" fill="#f3f0e7">
+<rect x="-24" y="-129" width="48" height="258"/><rect x="-129" y="-24" width="258" height="48"/>
+<rect x="-24" y="-129" width="48" height="258" transform="rotate(45)"/><rect x="-24" y="-129" width="48" height="258" transform="rotate(-45)"/>
+<circle r="46" fill="#ee542d"/><circle r="12"/>
+</g></svg>
