@@ -3,6 +3,7 @@
 <p>
 <a href="https://www.linkedin.com/in/wilson-wu-6a08893ba/"><strong>LINKEDIN ↗</strong></a> &nbsp; / &nbsp;
 <a href="https://www.florus.ai/"><strong>FLORUS AI ↗</strong></a> &nbsp; / &nbsp;
+<a href="https://www.youtube.com/@potuber"><strong>POTUBER ↗</strong></a> &nbsp; / &nbsp;
 <a href="#the-builders-path">VENTURES ↓</a> &nbsp; / &nbsp;
 <a href="#backing-the-founder-before-the-breakthrough">INVESTING ↓</a> &nbsp; / &nbsp;
 <a href="#working-alongside-founders">CONSULTING ↓</a>
@@ -173,6 +174,14 @@ Advised on **launch and operating strategy**, connecting product decisions with 
 </details>
 
 My consulting work connects product design, technical execution and operating decisions. Sometimes that means designing the mechanism. Sometimes it means helping a team get it into the world.
+
+<img src="./assets/chapter-divider.svg" width="100%" alt="" />
+
+## Potuber / Good ideas deserve attention
+
+I run **[Potuber ↗](https://www.youtube.com/@potuber)**, a channel following the people and technologies shaping what comes next: AI, Web3, technical education and perspectives for builders and investors.
+
+**Watch:** [Pons on Robinhood Chain: The Builder Story Behind the Breakout ↗](https://www.youtube.com/watch?v=ptcwE0JIJyE)
 
 <img src="./assets/chapter-divider.svg" width="100%" alt="" />
 
